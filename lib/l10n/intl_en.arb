@@ -1,0 +1,17 @@
+{
+  "appName": "Movie list",
+  "loading": "Loading",
+  "noMovies": "There is not movies on the list",
+  "error": "Error",
+  "accept": "Accept",
+  "anErrorHasOccurred": "An error has occurred",
+  "errorConnection": "There is a error connection",
+  "originalTitle": "Original title",
+  "releaseDate": "Release date",
+  "storyLine": "Story line",
+  "popular": "Popular",
+  "topRated": "Top rated",
+  "byTopRated": "By top",
+  "byPopular": "By popular",
+  "tryAgain": "An error has occurred, tap over the screen to try again."
+}
